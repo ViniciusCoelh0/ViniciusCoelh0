@@ -7,6 +7,8 @@
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusCoelh0&show_icons=true&theme=merko)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCoelh0&exclud_repo=github-readme-stats,anuraghazra.github.io)
+
 ### Tecnologias que uso
 
 <div style="display: inline_block"><br/>
