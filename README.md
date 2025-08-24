@@ -2,6 +2,12 @@
 
 ###
 
+<p align="center">
+  <em>"Loucura é fazer a mesma coisa repetidamente e esperar resultados diferentes."</em><br>
+  — Albert Einstein
+</p>
+
+
 <div align="left">
   <a href="https://www.instagram.com/ovinicius.dantas/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
